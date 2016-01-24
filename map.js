@@ -1,3 +1,4 @@
+//some comment to make code diff
 function changeView(value) {
     current_view = value;
     if (current_reloader != null)
